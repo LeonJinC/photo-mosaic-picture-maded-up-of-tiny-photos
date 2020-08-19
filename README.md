@@ -8,6 +8,7 @@
 由数量众多照片拼贴而成的马赛克图片,分2步：
 
 1.generatedataset(path);
+
 2.generateface(facepath,path);
 
 
